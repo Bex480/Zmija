@@ -1,0 +1,15 @@
+﻿  Body.cpp
+  Collideable.cpp
+  Food.cpp
+  Main.cpp
+C:\Users\rolle\source\repos\Project3\Project3\Main.cpp(15,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rolle\source\repos\Project3\Project3\Main.cpp(76,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.cpp
+C:\Users\rolle\source\repos\Project3\Project3\Snake.cpp(48,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rolle\source\repos\Project3\Project3\Snake.cpp(57,26): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\rolle\source\repos\Project3\Project3\Snake.cpp(58,23): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\rolle\source\repos\Project3\Project3\Snake.cpp(79,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rolle\source\repos\Project3\Project3\Snake.cpp(79,33): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Wall.cpp
+  Generating Code...
+  Project3.vcxproj -> C:\Users\rolle\source\repos\Project3\x64\Debug\Project3.exe
